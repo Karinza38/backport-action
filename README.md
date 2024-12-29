@@ -1,4 +1,4 @@
-# Backport action
+ # Backport action
 
 Fast and flexible GitHub action to backport merged pull requests to selected branches.
 
